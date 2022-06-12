@@ -34,7 +34,7 @@ The Interoperability feature is still in its infancy. Since Interoperability ens
 
 Even though it’s an important use case, we don’t see it happening anytime soon due to the non-aligned economic incentives of gaming studios.
 
-##How decentralized games will onboard users to web3
+## How decentralized games will onboard users to web3
 
 Gaming models have evolved from pay-to-play to free-to-play and now play-to-earn. Pay-to-play models consisted of users often paying 60 dollars to acquire a digital or physical game copy. While pay-to-play models are nothing wrong, they cannot generate users and profits over long periods.
 
