@@ -1,4 +1,3 @@
-
 ---
 slug: Introduction to Web3 Games and Guilds.
 title: Introduction to Web3 Games and Guilds.
@@ -13,7 +12,7 @@ Do you remember the first game you ever played? It could’ve been Mario kart, P
 
 The gaming ecosystem is currently going through an evolution. Let’s explore a potential future for the 160 billion USD industry. For now, they are just games, but they will act as the gateway for gamers into a new world, i.e., the Web3.
 
-##What is web3 gaming?
+## What is web3 gaming?
 
 ![](https://miro.medium.com/max/1400/0*3nrJmyvQ1yIyD-D3)
 
@@ -23,11 +22,11 @@ The steam marketplace is one such example. Gamers can buy or sell in-game items 
 
 So what does the blockchain have to offer to solve the issue of ownership of assets? Web3 gaming has created an ecosystem that has decentralized the ownership of assets to decision-making from any central authority.
 
-##Full ownership
+## Full ownership
 
 Web3 games allow gamers to earn revenue by engaging in the game ecosystem and are rewarded with in-game items for their contributions and achievements. The players own these assets(NFTs and game tokens) entirely. Since web3 games use blockchain, players can utilize these virtual goods to trade or buy in any marketplace or convert them into fiat currency.
 
-##Interoperability
+## Interoperability
 
 In traditional games, in-game goods lose value once you are out of their ecosystem. That is not the case with web3 games. Since the data stored on the blockchain is publicly available, gamers can put transactions and assets held by a wallet to use on different platforms (or games).
 
@@ -43,13 +42,13 @@ Free-to-play earn games changed that. They made games easily accessible and gene
 
 Play-to-earn games will eventually introduce their users to other features of web3, such as Defi. As users frequently interact with in-game marketplaces, they will become comfortable using wallets and other Defi features like loans and smart contracts.
 
-##Challenges of web3 games
+## Challenges of web3 games
 
 While Web3 games look promising, potential users are hesitant to onboard due to a significant drawback. Most web3 games require a significant initial investment to get started. In Axie Infinity, a gamer must own three Axie NFTs to start the game. It would cost around 110 USD to form an average Axie team. Such an investment without the surety of ROI demotivates the average gamer to participate in web3 games. How do we solve this problem?
 
-##GUILDS
+## GUILDS
 
-**​​**
+## ​​
 
 ![](https://miro.medium.com/max/1400/0*Hirr6IDInpAg8x98)
 
@@ -57,17 +56,17 @@ Gaming guilds are organizations that focus on providing socioeconomic support to
 
 Many guilds that exist today are a part of a larger DAO or are planning to be one. Each guild has its native token to unlock exclusive content or earn rewards. These tokens also give the guild members the right to participate and vote regarding the guild’s management. Participating in the guild’s decision-making process makes members feel valued and responsible.
 
-##Problem with Guilds
+## Problem with Guilds
 
 ![](https://miro.medium.com/max/1400/0*D7r_WdNOjchhqvV0)
 
 Guilds are lucrative for gamers, but becoming a member is a long and arduous process. The user onboarding process could be broken down into two stages:
 
-##Discovery
+## Discovery
 
 Finding the right guild via social media channels is a tricky process. The discovery channels are often isolated and hard to find. It takes a lot of effort for a gamer to find a guild and guild manager suited to their needs.
 
-##Onboarding
+## Onboarding
 
 Training & interview. (7–12 days)
 
@@ -75,7 +74,7 @@ A community manager will give you study material and train you about the basics 
 
 The entire process is inefficient, with a conversion rate of 0.1%, which means out of every 1000 applications, only one gamer becomes a scholar. This method isn’t sustainable because web3 games and guilds miss out on potential gamers who could generate revenue and increase profits.
 
-##Respct
+## Respct
 
 ![](https://miro.medium.com/max/1280/0*aWs8qg4Cwe5ODeBy)
 
