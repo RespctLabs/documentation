@@ -9,7 +9,7 @@ const config = {
 	title: "Respct",
 	tagline:
 		"Changing web3 gaming with our player DID, protocol & NFT marketplace",
-	url: "https://docs.respct.fun",
+	url: "https://docs.respct.co",
 	baseUrl: "/",
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
@@ -60,6 +60,12 @@ const config = {
 	themeConfig:
 		/** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 		({
+			metadata: [
+				{
+					name: "keywords",
+					content: "respct, gamers, guilds, games, web3, blockchain",
+				},
+			],
 			navbar: {
 				title: "Respct",
 				logo: {
