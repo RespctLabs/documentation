@@ -1,3 +1,10 @@
+---
+slug: Soulbound tokens
+title: Soulbound tokens
+authors: utsav
+tags: [web3, tokens, soulbound, ethereum]
+---
+
 # What are Soulbound tokens? Why am I thrilled about them?
 Web3 at its current pace has already become web5 or web69, and every couple of weeks you hear about something new happening. I fell in love with blockchain technology when I was 17. I read the bitcoin paper for the first time 6 years ago. The financial application of the bitcoin chain was pretty evident to me then but what was not evident to my 17yo brain was the use of decentralization to other factors of life. I was very happy with my Facebook account and qwerty keypad messaging at that point. And now after 6 years of reading about bitcoin, soulbound and resume’s as NFT has got me curious again. I know there is a lot of debate on DIDs, VCs, vs SBTs. I love them all because they bring a change in our lives which was not talked about earlier and can make a huge impact. So now that we have set up our story let’s understand what are SBTs?
 
