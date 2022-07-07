@@ -80,6 +80,12 @@ const config = {
 						label: "Whitepaper",
 					},
 					{ to: "/blog", label: "Blog", position: "left" },
+					{
+						to: "https://app.respct.co",
+						label: "Early Access",
+						position: "right",
+					},
+
 					// {
 					// 	href: "https://github.com/facebook/docusaurus",
 					// 	label: "GitHub",

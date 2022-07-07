@@ -1,11 +1,9 @@
 ---
-slug: Introduction to Web3 Games and Guilds.
-title: Introduction to Web3 Games and Guilds.
+slug: Introduction to Web3 Games and Guilds
+title: Introduction to Web3 Games and Guilds
 authors: anurag
 tags: [web3, P2E, gaming]
 ---
-
-# Introduction to Web3 Games and Guilds.
 
 Do you remember the first game you ever played? It could’ve been Mario kart, Pokemon, Farmville, or any other game. These games were a great source of entertainment, but they did something more significant: they introduced their users to a platform. Let’s take a look at the popular game “Farmville.” In 2009 Facebook added Farmville to its game library, and what happened afterward was nothing short of remarkable. With successful marketing strategies, Farmville had become so successful that it accounted for 20 percent of Facebook’s user base at the time. Facebook’s user base had grown from 200 to 750 million years during Farmville’s prime years. Users created accounts to play the game and were introduced to the Facebook platform. Fortnite, a free-to-play game, is so successful that it has over 350 million users and generated over 5.1 billion USD in 2020 alone because it has become more than just a ‘game.’ Fortnite has become a social platform. It has become a virtual place where people have fun and socialize. Games aren’t just games anymore — Fortnite has proved that.
 
@@ -45,9 +43,7 @@ Play-to-earn games will eventually introduce their users to other features of we
 
 While Web3 games look promising, potential users are hesitant to onboard due to a significant drawback. Most web3 games require a significant initial investment to get started. In Axie Infinity, a gamer must own three Axie NFTs to start the game. It would cost around 110 USD to form an average Axie team. Such an investment without the surety of ROI demotivates the average gamer to participate in web3 games. How do we solve this problem?
 
-## GUILDS
-
-## ​​
+## GUILDS​​
 
 ![](https://miro.medium.com/max/1400/0*Hirr6IDInpAg8x98)
 
